@@ -1,9 +1,11 @@
 <h1 align="center">Hello 👋, I'm Aneerban Saha</h1>
-<h3 align="center">Machine Learning | RDBMS | Web Developer | UX/UI </h3>
+<h3 align="center">Machine Learning | RDBMS | Web Developer | UX/UI | Web3.0 Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishii100&label=Profile%20views&color=0e75b6&style=flat" alt="rishii100" /> </p>
 
 <p align="left"> <a href="https://twitter.com/AneerbanS" target="blank"><img src="https://img.shields.io/twitter/follow/AneerbanS?logo=twitter&style=for-the-badge" alt="AneerbanS" /></a> </p>
+
+<h3 align="center">I'm a computer science passionate individual who loves taking on new challenges and solving real-world problems. As a Front-End Developer, UI/UX Designer and Competitive Programmer, I have the opportunity to work on some amazing projects and solve challenging problems. I'm student Ambassador for OneApi @Intel®,I am also Community Lead @MUJCentral a tech community dedicated towards building a robust coding culture in the campus and making it accessible to all.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
