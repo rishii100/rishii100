@@ -22,4 +22,5 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /></p>
 <br>
+<h3 align="left"> Contribution Stats: </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&" alt="rishii100" /></p>
