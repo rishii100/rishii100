@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /></p>
 <br>
 <h3 align="left"> Contribution Stats: </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishi100&" alt="rishii100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&" alt="rishii100" /></p>
 <br>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rishii100&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
