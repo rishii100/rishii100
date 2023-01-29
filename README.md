@@ -21,7 +21,7 @@ alt="canva" width="40" height="40"/> </a> <a href="https://jupyter.org/" target=
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter-notebook" width="40" height="40"/> </a></p>
 <br>
 <h3 align="left"> Github Stats: </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /><img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /><img align="centre" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&" /></p>
 <br>
 <h3 align="left"> Contribution Stats: </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&" alt="rishii100" /></p>
