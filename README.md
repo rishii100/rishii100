@@ -21,12 +21,11 @@ alt="canva" width="40" height="40"/> </a> <a href="https://jupyter.org/" target=
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter-notebook" width="40" height="40"/> </a></p>
 <br>
 <h3 align="left"> Github Stats: </h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /><img align="centre" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /><img align="right" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&" /></p>
 <br>
 <h3 align="left"> Contribution Stats: </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&" alt="rishii100" /></p>
 <br>
- <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&" />
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rishii100&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
 </p>
