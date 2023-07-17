@@ -28,5 +28,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <br>
 
 <h3 align="left"> Contribution Stats: </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&" alt="rishii100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&hide_border=true&theme=algolia" alt="rishii100" /></p>
 <br>
