@@ -24,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rishii100&layout=compact&hide_border=true&theme=algolia"/></p>
 
 <h3 align="left">Language Stats:</h3>
-<p ><img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&"" /></p>
+<p ><img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&layout=compact&hide_border=true&theme=algolia""" /></p>
 <br>
 
 <h3 align="left"> Contribution Stats: </h3>
