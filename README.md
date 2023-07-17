@@ -22,6 +22,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <br>
 <h3 align="left"> Github Stats: </h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rishii100&show_icons=true&locale=en" alt="rishii100" /></p>
+
+<h3 align="left">Language Stats:</h3>
 <p ><img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&" /></p>
 <br>
 
