@@ -30,4 +30,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <h3 align="left"> Contribution Stats: </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&hide_border=true&theme=algolia" alt="rishii100" /></p>
 <br>
-[![An image of @rishii100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishii100)](https://holopin.io/@rishii100)
