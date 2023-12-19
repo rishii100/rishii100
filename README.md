@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/AneerbanS" target="blank"><img src="https://img.shields.io/twitter/follow/AneerbanS?logo=twitter&style=for-the-badge" alt="AneerbanS" /></a> </p>
 
 <h3 align="left">About me:</h3>
-<h4 align="center">As a passionate individual in the field of Computer Science, I revel in taking on new challenges and devising pragmatic solutions to real-world problems. My expertise extends to multiple domains, including UI/UX, Wdevelopment, RDBMS, and API development. Currently, I am learning about Web3.0 and Deep Learning to further broaden my knowledge base.I have had the privilege of working on some exceptional projects that have allowed me to tackle complex issues. Notably, I have been selected as a Student Ambassador for OneAPI @Intel® and serve as the Community Lead @MUJCentral, a tech community aimed at cultivating a robust coding culture on campus while ensuring accessibility to everyone.</h4>
+<h4 align="center">As a passionate individual in the field of Computer Science, I revel in taking on new challenges and devising pragmatic solutions to real-world problems. My expertise extends to multiple domains, including UX/UI, Web development, RDBMS and API development. Currently, I am learning about Web3.0 and Deep Learning to further broaden my knowledge base.I have had the privilege of working on some exceptional projects that have allowed me to tackle complex issues. Notably, I have been selected as a Student Ambassador for OneAPI @Intel® and serve as the Community Lead @MUJCentral, a tech community aimed at cultivating a robust coding culture on campus while ensuring accessibility to everyone.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
