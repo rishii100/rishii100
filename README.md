@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/AneerbanS" target="blank"><img src="https://img.shields.io/twitter/follow/AneerbanS?logo=twitter&style=for-the-badge" alt="AneerbanS" /></a> </p>
 
 <h3 align="left">About me:</h3>
-<h4 align="center">As an experienced research industry professional, I possess a diverse range of skills in artificial intelligence, llms, machine learning, web applications and blockchain, as well as UX/UI and problem-solving. With a Bachelor of Technology in Computer Science from Manipal University Jaipur, I deliver visually stunning, user-friendly products and optimize processes to drive growth. 
+<h4 align="left">As an experienced research industry professional, I possess a diverse range of skills in artificial intelligence, llms, machine learning, web applications and blockchain, as well as UX/UI and problem-solving. With a Bachelor of Technology in Computer Science from Manipal University Jaipur, I deliver visually stunning, user-friendly products and optimize processes to drive growth. 
 
 As a current BTech CSE student in Manipal University Jaipur, I remain committed to developing my skills while bringing passion and innovation to the field of computer science. My track record of delivering exceptional results is a testament to my ability to excel in any team.</h4>
 
