@@ -28,7 +28,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <h3 align="left">Language Stats:</h3>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishii100&theme=react&hide_border=true" /></p>
 <br>
-
-<h3 align="left"> Contribution Stats: </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishii100&hide_border=true&theme=algolia" alt="rishii100" /></p>
-<br>
