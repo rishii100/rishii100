@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aneerban Saha</h1>
-<h3 align="center">Machine Learning | RDBMS | Web Developer | UX/UI | Web3.0 Enthusiast </h3>
+<h3 align="center">AI Engineer | Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishii100&label=Profile%20views&color=0e75b6&style=flat" alt="rishii100" /> </p>
 
