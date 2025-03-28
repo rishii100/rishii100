@@ -6,10 +6,8 @@
 <p align="left"> <a href="https://twitter.com/AneerbanS" target="blank"><img src="https://img.shields.io/twitter/follow/AneerbanS?logo=twitter&style=for-the-badge" alt="AneerbanS" /></a> </p>
 
 <h3 align="left">About me:</h3>
-<h4 align="left"> Here's a professional and engaging GitHub bio for you:  
-
-👋 **Hi there! I'm Aneerban Saha**  
-
+<h4 align="left">  
+  
 I'm a passionate **AI and Machine Learning Engineer** with a knack for building real-world solutions that drive impact. From developing AI-powered fintech chatbots to designing predictive healthcare models, I love turning ideas into reality through code.  
 
 🔎 **What You'll Find Here:**  
