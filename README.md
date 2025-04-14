@@ -20,7 +20,7 @@ I'm a passionate **AI and Machine Learning Engineer** with a knack for building 
 - Developed chatbots for customer support using GPT models  
 - Created predictive tools for microfinance loan recovery  
 - Built medical NLP models for adverse event detection  
-- Hackathon Winner & Research Paper Presenter  
+- 5xHackathon Winner & Research Paper Presenter  
 
 💡 Always exploring new AI innovations, collaborating on open-source projects, and contributing to the tech community.  
 
